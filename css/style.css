@@ -1,7 +1,0 @@
-.page-video .video-section {
-    width: 35% !important;/* 52% */
-}
-
-.page-video .content-section {
-    width: calc(100% - 35% - 20px) !important;/* 52% */
-}
