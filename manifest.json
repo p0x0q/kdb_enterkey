@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "kdbをEnterkeyで検索",
-    "version": "1.0",
+    "version": "1.01",
     "description": "https://kdb.tsukuba.ac.jp/　の検索において、EnterKeyによる検索を可能にします。",
   "browser_action": {
     "default_icon": {
